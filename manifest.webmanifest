@@ -1,0 +1,23 @@
+{
+  "name": "Apple Corner World",
+  "short_name": "Apple Corner",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10131a",
+  "theme_color": "#10131a",
+  "description": "Phone sales, repairs and customer support.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
